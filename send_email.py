@@ -8,8 +8,8 @@ file_path = "email.xlsx"  # Aapka Excel file ka path
 df = pd.read_excel(file_path)
 
 # Email credentials
-EMAIL_ADDRESS = "ritik841207@gmail.com"  # Apna email daalein
-EMAIL_PASSWORD = "ixhu osjt icng emid"  # Gmail app password use karein
+EMAIL_ADDRESS = ""  # Apna email daalein
+EMAIL_PASSWORD = ""  # Gmail app password use karein
 
 # SMTP Server setup
 SMTP_SERVER = "smtp.gmail.com"
